@@ -1,0 +1,7 @@
+Cooper Edwards Cooper16@iastate.edu
+Chance Kupersmith chancek@iastate.edu
+Patrick Westerlund patwest@iastate.edu
+
+Assignment 10-2
+1: Created a single player game of battleship against the computer. The computer places 17 tiles, with none overlapping.
+2. The player chooses a y and x axis, then that is shown if they hit the sea, or hit a ship.

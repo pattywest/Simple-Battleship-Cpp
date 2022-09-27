@@ -1,0 +1,1258 @@
+commit bd3733d43b46e66b01fa911c94cf0a19ccbbd7cf
+Author: chancek <chancek@iastate.edu>
+Date:   Wed Apr 28 20:47:25 2021 -0500
+
+    done
+
+commit ca040cea31763cb137651963a690f98b90ffc061
+Author: patwest <patwest@iastate.edu>
+Date:   Wed Apr 28 19:15:27 2021 -0500
+
+    started gameplay
+
+commit 2e1f4fbdbb543805b91db17a4a3a31531eb2d0c9
+Author: patwest <patwest@iastate.edu>
+Date:   Wed Apr 28 18:28:26 2021 -0500
+
+    added random seed gen
+
+commit e92863d46af626bbc4d660801db7bf1c934a5b7a
+Author: patwest <patwest@iastate.edu>
+Date:   Wed Apr 28 18:24:34 2021 -0500
+
+    fixed map issue
+
+commit f2f3e27d911156eb90a2ad2413e82d7d5f5859eb
+Author: patwest <patwest@iastate.edu>
+Date:   Tue Apr 27 15:12:58 2021 -0500
+
+    Made makefile, and other random functions.
+
+commit 855f2fca0c73064b7b46dda923c138d5833f56f5
+Merge: 3a3321f d69aad7
+Author: patwest <patwest@iastate.edu>
+Date:   Sat Apr 24 12:50:21 2021 -0500
+
+    QMerge branch 'master' of https://git.ece.iastate.edu/coms-327/rougelike
+
+commit 3a3321f9e5a79a0bbefe64da2e94a29557cfec2b
+Author: patwest <patwest@iastate.edu>
+Date:   Sat Apr 24 12:49:19 2021 -0500
+
+    Started Battleship
+
+commit d69aad7614a3cb2aac2c5f937748773fc44bc9f7
+Author: Cooper <cooper16@iastate.edu>
+Date:   Fri Apr 16 01:33:20 2021 -0500
+
+    almost got everything finished
+
+commit 96fa0f821d2dd6602e862382ee301080cffcc336
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Apr 15 22:15:25 2021 -0500
+
+    lookup and pickup done
+
+commit 9fe8c93ea676aa24f2ce74765f22d2e6d44a4284
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Apr 15 22:15:14 2021 -0500
+
+    lookup and pickup done
+
+commit c3e0c14ff71fce69cb61da9e8459abceb3f29d77
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Apr 15 16:27:30 2021 -0500
+
+    inventory display
+
+commit 5a4f64f6150418e627d0d3140f00a5f3ade8dd99
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Apr 15 15:47:00 2021 -0500
+
+    fixed game ending and combat
+
+commit 2f1647347dfdaf1d8ded125b38721e71f08be287
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Apr 15 13:21:20 2021 -0500
+
+    just to push
+
+commit 446e4b3957107d364bbeb2f872d45b2eba10cfb0
+Author: Cooper <cooper16@iastate.edu>
+Date:   Fri Apr 9 01:05:09 2021 -0500
+
+    finished project
+
+commit f646223aa386ccec05193eb6b1bcd28f585115c2
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Apr 8 23:16:44 2021 -0500
+
+    almost finished
+
+commit 016f4b598095aeda17c7a0780656d8aa5f13e65e
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Apr 8 22:22:52 2021 -0500
+
+    finished random items
+
+commit e301078f611fee2a8080f48b4bc92b68bc38141b
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Apr 8 21:46:53 2021 -0500
+
+    the items are on the map
+
+commit 4294eb41bb6ec38261d54eaaefedbc076cfa1331
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Apr 8 21:00:57 2021 -0500
+
+    combined work
+
+commit b346f9380c66356105cf1af6c43c5081228a2792
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Apr 8 21:00:40 2021 -0500
+
+    combined work
+
+commit 2cca15a8174efc0a7e7a463fc22632021e971ff3
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Apr 8 19:09:07 2021 -0500
+
+    started object header file
+
+commit 53d5a1561aafc8bcfe7c4142509201c4c5bc216d
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Apr 8 18:47:07 2021 -0500
+
+    finished color, need to add random adding and object map
+
+commit 619c787707608dc5f8a2c9e096ed1eacbce8345c
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Apr 8 18:07:01 2021 -0500
+
+    monsters on board but memory currption
+
+commit cb97157e301b4da842d658a7a2fd5741d8f2bc38
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Apr 8 17:47:03 2021 -0500
+
+    working on getting monsters on the map
+
+commit ff6946aedc71983df22c0239a8ecfedaa66668d9
+Author: Cooper <cooper16@iastate.edu>
+Date:   Wed Apr 7 21:43:18 2021 -0500
+
+    start working on the project, having a few issues adding the monsters to the heap
+
+commit 38cb8cc9f76db56fdcd330ea111f961c98d8466e
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:52 2021 +0000
+
+    Delete .gitignore
+
+commit e6488308ebe04d721797eaaf4465665b909551b0
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:50 2021 +0000
+
+    Delete rougelike.iml
+
+commit 7a928b4d1beb39872a9839f76cf2d9a7a2f44174
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:47 2021 +0000
+
+    Delete modules.xml
+
+commit 6dfbeb1ef0ad32aa9cf16a21eef162b7205f3095
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:44 2021 +0000
+
+    Delete vcs.xml
+
+commit 774ffcd29eac08d4fc399d4529ebd6f06cf2e08f
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:37 2021 +0000
+
+    Delete .gitignore
+
+commit 11048c76acdd7cc17ec1d606dbcc6d1df87b5428
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:34 2021 +0000
+
+    Delete misc.xml
+
+commit 02e340b7feb265a6190a0b7f38b06ce6c2534b24
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:29 2021 +0000
+
+    Delete modules.xml
+
+commit aa6c45eb839ba32bf4911da4fd9f00c46fbccbef
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:25 2021 +0000
+
+    Delete rlg327-s2021-1.05.iml
+
+commit a4b24a7e0a33bc5e9066533a8197a43898939507
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:22 2021 +0000
+
+    Delete workspace.xml
+
+commit e6ff2146bad1ddfbccc042d8b21ead9452e02aed
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:15 2021 +0000
+
+    Delete settings.json
+
+commit 4fbda3dcd6887fd3581228797349117bc82710b3
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:08 2021 +0000
+
+    Delete adventure.pgm
+
+commit 795be2425f992b7646d688fe632532bc11a0c36e
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:05 2021 +0000
+
+    Delete hello.pgm
+
+commit 2b6a96c7a2ef58578cd0d0fbeae63f861e495003
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:37:02 2021 +0000
+
+    Delete welldone.pgm
+
+commit fa864e6473b5f169945264d0c76fea21cfa5f23c
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:55 2021 +0000
+
+    Delete 00.rlg327
+
+commit fd174a3bd9af66886a43d6d6f1c2e057c6de5e23
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:45 2021 +0000
+
+    Delete 01.rlg327
+
+commit f7503816e98fc70810152d1ea01245fad0af9e0a
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:42 2021 +0000
+
+    Delete 02.rlg327
+
+commit 0bd26505b1661f17415f46bce9d3ba505b8da5a5
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:35 2021 +0000
+
+    Delete 03.rlg327
+
+commit 0ee6033398f5e612a19a552666719d82cd2ae1d9
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:31 2021 +0000
+
+    Delete 04.rlg327
+
+commit 68564bf7bd1ae3d5dbeb686e2d08ca77a1a938af
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:25 2021 +0000
+
+    Delete 05.rlg327
+
+commit 8cddcfcef8d5116f4c97ecc24dfe0bb769d4be50
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:21 2021 +0000
+
+    Delete 06.rlg327
+
+commit 523c75218b9d1e18d6b12819aee70f59b69eb610
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:17 2021 +0000
+
+    Delete 07.rlg327
+
+commit 4efc5baa7f66f08b4337ed240b77af5e85b88f26
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:14 2021 +0000
+
+    Delete 08.rlg327
+
+commit 5246e5c3bdab6b7f3a9e7edab4619f261cc29cdf
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:09 2021 +0000
+
+    Delete 09.rlg327
+
+commit 975c790bb7813f51d5d152354554905600e29620
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:04 2021 +0000
+
+    Delete adventure.rlg327
+
+commit 3af43501286af408606f848acad40188fbd073bb
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:36:01 2021 +0000
+
+    Delete distance_maps.txt
+
+commit 30ffe51298f96d926846ad65ca947ddc9b06de6a
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:56 2021 +0000
+
+    Delete hello.rlg327
+
+commit 9cf1aa6700929f66cf09b27648661d57feb4c2bb
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:52 2021 +0000
+
+    Delete output.txt
+
+commit ffbe843fd196a539f00c31650c3f1caf872e90a8
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:48 2021 +0000
+
+    Delete welldone.rlg327
+
+commit 11679ae9435fd42133cc8727b1315b6da3a095f1
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:42 2021 +0000
+
+    Delete Makefile
+
+commit 455c5ef66dfd518d49a28b90862d5b658507f9ff
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:37 2021 +0000
+
+    Delete README
+
+commit fda364e9fe464838d78378b8c91b0b87b68b8189
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:33 2021 +0000
+
+    Delete character.cpp
+
+commit 60eede818bd55d05263b9e490f9294d734e5c3bd
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:30 2021 +0000
+
+    Delete TAGS
+
+commit 02decbe0c82b240fb33b973057381d77a1dd0873
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:26 2021 +0000
+
+    Delete character.d
+
+commit 79686a5e3df7ad74520e9bcd0ea64e7d75df7627
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:21 2021 +0000
+
+    Delete character.h
+
+commit e2a285c79be2a9b5f7cac56d3c70e333f1485d14
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:18 2021 +0000
+
+    Delete character.o
+
+commit 7b8f34b424e07fab9736a161f04bd8e3edf99f93
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:14 2021 +0000
+
+    Delete dims.h
+
+commit 2cb36aff089567ae4c60d55b6d4c4b8a7f6779a7
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:09 2021 +0000
+
+    Delete dungeon.cpp
+
+commit b8b109fae952c61db2e29babc55aaa8539903d66
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:35:03 2021 +0000
+
+    Delete dungeon.d
+
+commit fec7cce1057a61ecde77cb8ea84c8becc430416c
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:34:59 2021 +0000
+
+    Delete dungeon.h
+
+commit 8f3522fef9ade0f306d261f94060e4ff112bae75
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:34:55 2021 +0000
+
+    Delete dungeon.o
+
+commit 28542a5d375a5cafb73c7712f1a811cd20edafff
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:34:50 2021 +0000
+
+    Delete event.cpp
+
+commit 1c11851499d0c40f7ab0f2c18e4a6b954c3dc4b2
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:34:47 2021 +0000
+
+    Delete event.d
+
+commit 848163f88f2d9a75e6834029075650a979a29eb5
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:34:42 2021 +0000
+
+    Delete event.h
+
+commit 3928a093c555439b4b322fc6608165565cdcbbb9
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:34:29 2021 +0000
+
+    Delete event.o
+
+commit 80443fdd1a84c9972d5690fd734a7ab5362254dc
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:34:24 2021 +0000
+
+    Delete heap.cpp
+
+commit 30396d89954d2978233ce49644f89b47af03abc8
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:34:18 2021 +0000
+
+    Delete heap.d
+
+commit 170519017ec7ef8e70c95f21a7ee8c68eb3da1d5
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:34:06 2021 +0000
+
+    Delete heap.h
+
+commit 1dbf1183ae5cd94a9c9dbbcea4c2bb84813cefec
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:34:02 2021 +0000
+
+    Delete heap.o
+
+commit 169d2e77bb8674d0b570ef5a3d6440135050b024
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:57 2021 +0000
+
+    Delete io.cpp
+
+commit e67713105f819f8182a38031bc2109bbca64f474
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:53 2021 +0000
+
+    Delete io.d
+
+commit e9114aade6f36f6f13fca49118b40643e06ffa20
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:49 2021 +0000
+
+    Delete io.h
+
+commit 10df9ca4c4f7d0bd287c4a1e2878c1d073a4264c
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:45 2021 +0000
+
+    Delete io.o
+
+commit 3c60e0df449a70253c72d7e6ec22b75928a411c0
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:41 2021 +0000
+
+    Delete move.cpp
+
+commit 51b2d3215cad47ffd6b1dbb096bdc55cd5a07425
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:35 2021 +0000
+
+    Delete move.d
+
+commit a740f84264cf6c200a93b5aacbb910e3426d2cc6
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:31 2021 +0000
+
+    Delete move.h
+
+commit 226908438cdbe9116569d71ae22b5af338d1e08c
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:27 2021 +0000
+
+    Delete move.o
+
+commit 1f210e48bac00f691889c5f16b58e071903d75d8
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:23 2021 +0000
+
+    Delete npc.cpp
+
+commit 633d473bd5fe969e0efd8c20ca5cb982e30af489
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:19 2021 +0000
+
+    Delete npc.d
+
+commit 092efd5139f49a2224b21623c061cb4de9875d43
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:15 2021 +0000
+
+    Delete npc.h
+
+commit 0e39b45071e6e09fac6426a3639e724b4a50eb4b
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:12 2021 +0000
+
+    Delete npc.o
+
+commit c57f267edb653bbc9f2cea591b42597e819c2b47
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:07 2021 +0000
+
+    Delete path.cpp
+
+commit 74cebdb1658976de500c6d3891aab96c5796749c
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:33:03 2021 +0000
+
+    Delete path.d
+
+commit c01e8a7ab79b33270687c3e99b23c22bcdc13f9b
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:32:59 2021 +0000
+
+    Delete path.h
+
+commit 15f9072c3f92af3156ecbf107908ec3640ae7f6f
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:32:55 2021 +0000
+
+    Delete path.o
+
+commit e9abab5497f920b9549750d9b1eb299db842a038
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:32:51 2021 +0000
+
+    Delete pc.cpp
+
+commit 269e4dfda89e368c254ebea677d3658375d6deb5
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:32:47 2021 +0000
+
+    Delete pc.d
+
+commit 2b46bc47a45a85809c1ea8a6922d008e160324d2
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:32:42 2021 +0000
+
+    Delete pc.h
+
+commit c8005cfb251bca58b957ddf41e3f3fed21e4dea6
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 02:32:37 2021 +0000
+
+    Delete pc.o
+
+commit 13f57d74e9aaab3dcf5c1df422a12749945eccf9
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 01:10:25 2021 +0000
+
+    Delete rlg327
+
+commit 9bca3c2409bef194ce6575677854ed90c5e81170
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 01:10:00 2021 +0000
+
+    Delete rlg327.cpp
+
+commit 417a959a4d367f55c5ffa68de74bbd904430fa0c
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 01:09:52 2021 +0000
+
+    Delete rlg327.d
+
+commit 383f5d95d765b626b51c378c0efdfed364ca8f87
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 01:09:47 2021 +0000
+
+    Delete rlg327.o
+
+commit 983dcd060b9f4ef2c74658c8cab24af3c7952503
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 01:09:43 2021 +0000
+
+    Delete utils.cpp
+
+commit b432e4bb5c1f094b80d3a2c74a56db157d432c78
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 01:09:39 2021 +0000
+
+    Delete utils.d
+
+commit 74ae786b9df8c078e318c7fd56f0ae80273b04a0
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 01:09:33 2021 +0000
+
+    Delete utils.h
+
+commit fbee5558412fc2167febb404987abbba3a615452
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 01:09:29 2021 +0000
+
+    Delete utils.o
+
+commit 1fa872cd3f8cf1825f20f73402442ea2341a2e09
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 01:08:30 2021 +0000
+
+    Delete tasks.json
+
+commit 5d1cf968aa7aaceac8fe61c39d555209ca633ade
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Apr 1 01:08:26 2021 +0000
+
+    Delete launch.json
+
+commit 0b2670d5b859e2462131aa8746b83bba4e6a56a8
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Mar 25 18:41:03 2021 -0500
+
+    added readme
+
+commit 06ca93bc50186c14468345c9a60ab551de2085b3
+Merge: 1e0884b 315035b
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Mar 25 17:32:28 2021 -0500
+
+    Merge branch 'master' of https://git.ece.iastate.edu/coms-327/rougelike
+
+commit 1e0884bfeb5e83d878a5392032dc86492ff567f1
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Mar 25 17:32:14 2021 -0500
+
+    pushed working c++ code
+
+commit 315035b2d593eb93099263566b88a90b18375e1a
+Author: chancek <chancek@iastate.edu>
+Date:   Tue Mar 23 21:15:30 2021 -0500
+
+    added fog of war
+
+commit 9b06fbedacd400ff7ab8b16a8766d839c9c8db44
+Author: patwest <patwest@iastate.edu>
+Date:   Tue Mar 23 19:15:13 2021 -0500
+
+    started teleport display
+
+commit c43a7f4af5389b1d40fafc2b4abbace37a16b150
+Author: Cooper <cooper16@iastate.edu>
+Date:   Tue Mar 23 17:41:34 2021 -0500
+
+    all code is working in c++
+
+commit 7a0df299026202e642b85eaadd08fdf545d11693
+Author: chancek <chancek@iastate.edu>
+Date:   Mon Mar 22 21:20:49 2021 -0500
+
+    started changing c to cpp
+
+commit d45379c89cb1ddb6742a061b83f1e6ab902a9449
+Author: chancek <chancek@iastate.edu>
+Date:   Mon Mar 22 21:18:01 2021 -0500
+
+    started changing c to cpp
+
+commit 88e880283a1f730694b730d5c8f429f1c2405572
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Mar 11 19:45:01 2021 -0600
+
+    finished before 12
+
+commit 6c1afa7e45f87ea90c50745bf76a25d60c58688e
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Mar 11 18:25:05 2021 -0600
+
+    add monster distance map
+
+commit ffc46a4b7384f3c88bf164c0c1f5672eabdcf4b8
+Merge: 5e13689 d9d9c52
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Mar 11 17:22:19 2021 -0600
+
+    added more switch statements
+
+commit 5e136894c9a162e9eb4e0662a033ec73e86e69db
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Mar 11 17:16:16 2021 -0600
+
+    added more switch cases
+
+commit d9d9c52ac83162a2b568392ad504f9569891d56d
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Mar 11 15:43:45 2021 -0600
+
+    fixed stairs
+
+commit 9b412dd65fc8d97898ecb7442a5b21d4307a90a4
+Merge: 2b325a5 6b14c4b
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Mar 11 14:46:35 2021 -0600
+
+    did make clean
+
+commit 2b325a5893a517c381f2fb8cc08118771b468fd3
+Author: patwest <patwest@iastate.edu>
+Date:   Thu Mar 11 14:45:19 2021 -0600
+
+    Added stair dungeon generation
+
+commit 6b14c4b21469b1e10ca23bedce98c50554a83c29
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Mar 11 14:17:30 2021 -0600
+
+    added rest movement
+
+commit 7421020498230cdd56ee81f756116868296571dc
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Mar 11 14:05:38 2021 -0600
+
+    added some more input switch cases
+
+commit 7d9b6aa0876b0c9cc1e0883396a4a8efc5b6d283
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Mar 11 13:10:33 2021 -0600
+
+    implemented pc moves in all directions
+
+commit 280fbfce788eba4a3d238ea894ea508b71846468
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Mar 11 11:55:22 2021 -0600
+
+    pc can move up left now
+
+commit dcd9098f284000aeae70707f156589e898bec73a
+Author: Cooper <cooper16@iastate.edu>
+Date:   Wed Mar 10 20:59:15 2021 -0600
+
+    got the render dungeon to work, started on the do_move for the input for user
+
+commit 74472d185a2792af5d73a72d7311be0264f61033
+Author: chancek <chancek@iastate.edu>
+Date:   Tue Mar 9 19:07:24 2021 -0600
+
+    hw5 start
+
+commit 5177aa1f71f81fc512c589e35cd4e42e31332f6b
+Author: chancek <chancek@iastate.edu>
+Date:   Fri Mar 5 08:47:53 2021 -0600
+
+    final
+
+commit 21221c00c19c064858bb7c039cae60b6c2721cb1
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Mar 4 22:03:52 2021 -0600
+
+     fixed the flag issue
+
+commit d950e10dfb7e5e36a658f88322946175e2fff7bb
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Mar 4 21:40:06 2021 -0600
+
+    put in changelog
+
+commit 425f25175475ceb1c47cc32db378716705a6d7ed
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Mar 4 21:36:46 2021 -0600
+
+    finished
+
+commit 7621ab06204f300500f8114a6c856d2d495bc48d
+Author: chancek <chancek@iastate.edu>
+Date:   Thu Mar 4 21:08:33 2021 -0600
+
+    fixed telepathy movement
+
+commit fd69c2ce492b8bd0ea6df2069f8c3b4d249ec9ba
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Mar 4 20:41:21 2021 -0600
+
+     almost got everything finished
+
+commit 4b8df666c9578e58c7319ad8a27d013f8d16c7e8
+Author: chancek <chancek@iastate.edu>
+Date:   Thu Mar 4 17:46:51 2021 -0600
+
+    fix abilities
+
+commit 82646236367e1081ae7311969f804cf12df0af2f
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Mar 4 15:25:34 2021 -0600
+
+    worked on the priority queue for turns
+
+commit f7b3581bd3f4bcd94b4fc77118b0d692a85c819d
+Author: chancek <chancek@iastate.edu>
+Date:   Thu Mar 4 12:37:43 2021 -0600
+
+    added some abilities
+
+commit 0fe67eb272052fd6c4569e4264aa71d874f24162
+Author: chancek <chancek@iastate.edu>
+Date:   Wed Mar 3 19:29:54 2021 -0600
+
+    hw 4
+
+commit 3ccc4fd69dea5386fbf6123dd98a0e9b0b20924c
+Author: chancek <chancek@iastate.edu>
+Date:   Fri Feb 26 03:13:13 2021 -0600
+
+    submission
+
+commit 83e8be3195609493c44e37c8b6c2875d44ba6a0c
+Author: Cooper <cooper16@iastate.edu>
+Date:   Fri Feb 26 02:35:45 2021 -0600
+
+     deleted bfs
+
+commit 190fc24b11b7eada273d0d4a394694f638ce6fec
+Author: chancek <chancek@iastate.edu>
+Date:   Fri Feb 26 01:59:20 2021 -0600
+
+    add queue.h
+
+commit 6b4b699e2c167a96a9adfde502d9a8ae1858f17e
+Author: Cooper <cooper16@iastate.edu>
+Date:   Fri Feb 26 01:53:41 2021 -0600
+
+    almost getting bfs to work
+
+commit 5d7304a352b961a2f595cfe8c4f57df13672402b
+Author: chancek <chancek@iastate.edu>
+Date:   Fri Feb 26 00:46:38 2021 -0600
+
+    added dirs
+
+commit acb0a8b67106146506c48279b81aa58ed859af76
+Author: chancek <chancek@iastate.edu>
+Date:   Fri Feb 26 00:44:01 2021 -0600
+
+    heap added
+
+commit 48770c914ea94b4b6635fe17031cd17c1e119770
+Author: chancek <chancek@iastate.edu>
+Date:   Fri Feb 26 00:41:02 2021 -0600
+
+    added makefile
+
+commit d7d7e3126102a99da2c3e000ef0c661b68e169b0
+Author: chancek <chancek@iastate.edu>
+Date:   Fri Feb 26 00:01:46 2021 -0600
+
+    queue added
+
+commit 4f0b246617ac1af86ff2dd250985d50d4e3886b6
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Feb 25 23:35:32 2021 -0600
+
+    one step closer to finishing the weight for tunnelling monsters
+
+commit 29ff0ea6ec06dcc42d9f0c95a07464b9ff4496f1
+Merge: 0ce850f 749cb06
+Author: chancek <chancek@iastate.edu>
+Date:   Thu Feb 25 21:10:23 2021 -0600
+
+    somewhat working
+
+commit 749cb06b1c55fa9c5ef5d4596a56d13e68cc9427
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Feb 25 19:44:41 2021 -0600
+
+    pushing Dikstra's code
+
+commit 0ce850fc79e02452b3533ddf165ad22b4f8ce973
+Merge: d4c20e8 ff8a0c5
+Author: chancek <chancek@iastate.edu>
+Date:   Thu Feb 25 18:47:31 2021 -0600
+
+    Merge branch 'master' of https://git.ece.iastate.edu/coms-327/rougelike
+
+commit d4c20e8abb44433715a0bab5cbe8773369e45674
+Author: chancek <chancek@iastate.edu>
+Date:   Thu Feb 25 18:46:48 2021 -0600
+
+    idk
+
+commit ff8a0c5548eeb98f1c1e2102a563a6beae49dc4d
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Feb 25 17:46:32 2021 -0600
+
+    got bfs almost ready
+
+commit a45b489fd89bf5f4d40cdaae4119bd07353f0181
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Feb 25 15:15:11 2021 -0600
+
+    switching to prof code
+
+commit 795befec5d63689cdb572942d6643d184871e37d
+Merge: b1089ca afea594
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Feb 25 15:14:19 2021 -0600
+
+    changing files
+
+commit b1089cabf99f3233f1fd117e65c0762cde1e5715
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Thu Feb 25 15:12:51 2021 -0600
+
+    switched to prof code
+
+commit afea594bed06e624114647b58eb2d5f5886d31ec
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:09:02 2021 -0600
+
+    Delete workspace.xml
+
+commit 909a6664625839e44d9e2789eb73b7a7d526b2e3
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:08:59 2021 -0600
+
+    Delete vcs.xml
+
+commit 889e330b6c1869d9905294862fca4b2b363b8407
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:08:56 2021 -0600
+
+    Delete modules.xml
+
+commit f5ef1f7515432969bdd1d43c573f727595829555
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:08:52 2021 -0600
+
+    Delete misc.xml
+
+commit 1b35b9c313568ef0be19406c1f74fa6b40ba8af3
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:08:49 2021 -0600
+
+    Delete Dungeon_Generation.iml
+
+commit 2c6fb72646b8ca0ab867be001bf6354dfa31b6f1
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:08:42 2021 -0600
+
+    Delete README
+
+commit 6d574081f41b6470c1cf1b094d4d25546bd61d49
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:08:37 2021 -0600
+
+    Delete bfs.c
+
+commit ed260c35cc83543f2447a77a9d1baff088d286c2
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:08:34 2021 -0600
+
+    Delete bfs.c~
+
+commit 8e91f4c186220e57cac0f5a91d03c5e74823a239
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:08:30 2021 -0600
+
+    Delete main.c
+
+commit 1a798395a08a79c9b85db8590d97ebc4a483817f
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:08:26 2021 -0600
+
+    Delete makefile
+
+commit aeffdafbf0558bb312d3f412b246ed133a018649
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:08:22 2021 -0600
+
+    Delete queue.c
+
+commit b403f61d4dd9926187b87e7f02192a8ecf28d47f
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:08:18 2021 -0600
+
+    Delete queue.c~
+
+commit 9b76e36727e6ee669eb232d2b800de423f54572e
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:04:18 2021 -0600
+
+    Delete CHANGELOG.txt
+
+commit fac18102695eb4f5f93c32fe259d6f1a7c60e5b6
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:03:54 2021 -0600
+
+    Delete CHANGELOG.txt
+
+commit f4e6395caa19b9f909d1718287ee7915947c5e25
+Author: cooper16 <cooper16@iastate.edu>
+Date:   Thu Feb 25 15:03:02 2021 -0600
+
+    Delete kupersmith_chance.assignment-1.02.tar.gz
+
+commit 829ba6554c90fd08e4b830eff082e03292eec69c
+Author: Cooper <cooper16@iastate.edu>
+Date:   Wed Feb 24 21:15:31 2021 -0600
+
+    just started the bfs and the queue for bfs, need to put parameters for them and then they need to add the levels to an array
+
+commit ecfa05b30134808732ce809d5ef4f2d5f244956b
+Author: chancek <chancek@iastate.edu>
+Date:   Fri Feb 19 09:48:37 2021 -0600
+
+    What I submitted
+
+commit 5e00363b82956a8b214f9afaf2748f90e61dd940
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Feb 18 22:48:55 2021 -0600
+
+    started the save and load
+
+commit d83ac71a5260988795bc42a785fa6e2a65ceae64
+Author: Student <patwest@iastate.edu>
+Date:   Thu Feb 18 21:13:04 2021 -0600
+
+    finished save and load
+
+commit 3add8596623976a032871e56841835d8237fce99
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Feb 18 21:06:53 2021 -0600
+
+    fixed the horizonal corridor bug
+
+commit bad07285a516ea9323eda9dc2e2ac98f544da6c8
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Feb 18 20:56:00 2021 -0600
+
+    Almost final product
+
+commit 7d939af78c4e10a777ee64d81fd163a18719610c
+Merge: 62705b3 26207a7
+Author: Student <patwest@iastate.edu>
+Date:   Thu Feb 18 18:17:34 2021 -0600
+
+    Merge branch 'master' of https://git.ece.iastate.edu/coms-327/rougelike
+
+commit 62705b34da4599a91ab1b61ef3fb7c12ed121c69
+Author: Student <patwest@iastate.edu>
+Date:   Thu Feb 18 18:17:08 2021 -0600
+
+    Added paths in loading
+
+commit 26207a7f5065982997eba28115d42b267a2f899e
+Author: chancek <chancek@iastate.edu>
+Date:   Thu Feb 18 16:51:33 2021 -0600
+
+    added htobe to save
+
+commit 660e0f9f57e9bf760db650a83ea3db099a19d92f
+Author: Student <patwest@iastate.edu>
+Date:   Thu Feb 18 16:18:02 2021 -0600
+
+    merge conflicts
+
+commit 5376937b6d24f0f3cb882e7fe1a0cdd057fd3da4
+Merge: ce8166f e65d6ab
+Author: Student <patwest@iastate.edu>
+Date:   Thu Feb 18 16:15:52 2021 -0600
+
+    merge conflics
+
+commit ce8166fa20de3e95856e37cd1ed8a3afd7b2a38e
+Author: Student <patwest@iastate.edu>
+Date:   Thu Feb 18 16:13:10 2021 -0600
+
+    Finished loading
+
+commit e65d6abf82f26a4c4538d482fa165fded0ea8a87
+Author: chancek <chancek@iastate.edu>
+Date:   Thu Feb 18 15:58:43 2021 -0600
+
+    changed saved format
+
+commit 0e83d102fdaa5541983bbe61ab94d13f022c1ece
+Author: Student <patwest@iastate.edu>
+Date:   Thu Feb 18 14:06:29 2021 -0600
+
+    fix bugs
+
+commit 9ac0624c07f3cb3ca41c508a765d80ab3d576007
+Author: Student <patwest@iastate.edu>
+Date:   Wed Feb 17 20:54:54 2021 -0600
+
+    Started with loading function
+
+commit 6d8da636beba8222ed5d1bb70f2d6cc950254343
+Author: Cooper <cooper16@iastate.edu>
+Date:   Wed Feb 17 19:41:24 2021 -0600
+
+    just made the hardness matrix to print to the file
+
+commit 362e3954867df03c76e49e67b190118c4f75e811
+Author: chancek <chancek@iastate.edu>
+Date:   Tue Feb 16 22:40:01 2021 -0600
+
+    delete submitted hw
+
+commit b45b49967d3d899e042d9895d22b5bf78bf4f080
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Tue Feb 16 21:46:14 2021 -0600
+
+    fixed random room bug
+
+commit 3736b2e663173748d0b87403425bad7557dd1725
+Author: chancek <chancek@iastate.edu>
+Date:   Tue Feb 16 21:14:18 2021 -0600
+
+    save switch version1
+
+commit ea11d50d60f3da3db76c1af76788d0eaa26374d8
+Author: chancek <chancek@iastate.edu>
+Date:   Tue Feb 16 19:56:33 2021 -0600
+
+    working on switches
+
+commit 3ebdcacf77d945cf2c6f689b69c6c03eef1f9704
+Author: chancek <chancek@iastate.edu>
+Date:   Tue Feb 16 19:16:57 2021 -0600
+
+    deleted excess folder
+
+commit a6246f938459da6f6fe0dba3d90a00fcac14bb5b
+Author: chancek <chancek@iastate.edu>
+Date:   Tue Feb 16 19:13:10 2021 -0600
+
+    moved code to right folder
+
+commit 728ceaa61bfb997a48768c7ca4c06f5fd6c121e3
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Tue Feb 16 19:03:31 2021 -0600
+
+    started adding switches
+
+commit 3e2d3865a5f65a80547dbb69e21498bc90cbec81
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Tue Feb 16 17:48:49 2021 -0600
+
+    added random player char starting point
+
+commit 36a1ad4afae8ec5bc9da548d384de2d6357ee404
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Feb 11 18:01:56 2021 -0600
+
+    I just made the tar.gz file
+
+commit 45b04f45f7fd19f379a12fa94254234856d58b9c
+Author: Cooper <cooper16@iastate.edu>
+Date:   Thu Feb 11 17:43:56 2021 -0600
+
+    Finished the MAKEFILE,CHANGELOG,README
+
+commit 25033c8ca2ef0342058251717b8cb3be3bfee408
+Author: chancek <chancek@iastate.edu>
+Date:   Thu Feb 11 16:54:33 2021 -0600
+
+    add CHANGELOG
+
+commit ec8ff1609c40e609ce767fc61faa19de62856aa9
+Author: chancek <chancek@iastate.edu>
+Date:   Thu Feb 11 16:52:51 2021 -0600
+
+    add CHANGELOG
+
+commit e88355609e64feca827368071ae700495880e1cf
+Author: chancek <chancek@iastate.edu>
+Date:   Wed Feb 10 19:28:47 2021 -0600
+
+    fixed segmentation fault bug
+
+commit 4266f7c9f73a483b0c2e1646088006098b7ad6e2
+Author: chancek <chancek@iastate.edu>
+Date:   Wed Feb 10 19:27:46 2021 -0600
+
+    fixed segmentation fault bug
+
+commit b6e309a2ac77b699f5ec2bf2ad27481c86b11c8f
+Merge: baa8930 c1689a0
+Author: chancek <chancek@iastate.edu>
+Date:   Wed Feb 10 19:13:47 2021 -0600
+
+    super fast room gen
+
+commit baa89306150b52c72ebe7e2920d1b509cae418ec
+Author: chancek <chancek@iastate.edu>
+Date:   Wed Feb 10 19:10:04 2021 -0600
+
+    super fast room gen
+
+commit c1689a072e4c69b7e7bf2fed3f4b92373b1f6242
+Author: Student <patwest@iastate.edu>
+Date:   Wed Feb 10 18:16:34 2021 -0600
+
+    added stair spawning
+
+commit 305893cfa42b27622f605fe522676f3358d676e4
+Merge: bb9c08f 4659227
+Author: chancek <chancek@iastate.edu>
+Date:   Wed Feb 10 17:40:30 2021 -0600
+
+    Merge branch 'master' of https://git.ece.iastate.edu/coms-327/rougelike
+
+commit bb9c08f2486f8f7bb4ca70ed4adc4388235eb398
+Author: chancek <chancek@iastate.edu>
+Date:   Wed Feb 10 17:40:10 2021 -0600
+
+    improved room gen speed
+
+commit 9dbb17d1115b9e91d5579e8f9f9dcdebce341ceb
+Author: chancek <chancek@iastate.edu>
+Date:   Wed Feb 10 17:39:47 2021 -0600
+
+    improved room gen speed
+
+commit 46592275bcd9ad03d471af31e3a978a1b3a82c9a
+Author: Student <patwest@iastate.edu>
+Date:   Wed Feb 10 15:34:51 2021 -0600
+
+    added hardness to each cell. walls have 9, rocks have 5, coridiors have 2, and floors have 2.
+
+commit 7fba8600076616b702678d1e0118c933c973f8c9
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Wed Feb 10 12:01:17 2021 -0600
+
+    Things still to do: add staircases, rock hardness, cycle corridors, aesthetic stuff, parallel dungeons?
+
+commit 67c27bc1670f7ee2b750731f53fcb6444c00dd79
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Wed Feb 10 11:38:05 2021 -0600
+
+    Fixed corridor direction bug
+
+commit b05b84e6ac1e97b067cfee45acf91a68fde08947
+Author: Chance Kupersmith <chancek@iastate.edu>
+Date:   Wed Feb 10 11:33:15 2021 -0600
+
+    Corridor direction equation bug
+
+commit 0ab51de7cb1fe7c05abe9b42d00f0e37de61ff82
+Author: chancek <chancek@iastate.edu>
+Date:   Wed Feb 10 10:21:24 2021 -0600
+
+    Improved speed of room gen
+
+commit d8ad43dbe45f1fa0e87036b642203bf81352f90d
+Author: chancek <chancek@iastate.edu>
+Date:   Tue Feb 9 20:10:42 2021 -0600
+
+    random room gen
+
+commit 22782aad5d80a984f319043ce06e380c4dbc9280
+Author: chancek <chancek@iastate.edu>
+Date:   Tue Feb 9 20:04:33 2021 -0600
+
+    Initial commit
